@@ -40,6 +40,7 @@ def main():
             f += 1
         else:
             f += 1
+            
 
     if list(w) == s:
         print(s)
